@@ -1,1 +1,3 @@
-# learning-python-programming-topicwise
+# Learning-Python-Programming-Topicwise
+
+learning python from basics 
